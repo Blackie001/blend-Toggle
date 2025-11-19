@@ -1,0 +1,49 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  min-height: 500vh; /* Makes the page very tall for scrolling */
+  background: repeating-linear-gradient(
+    to bottom,
+    #000 0px,
+    #000 100px,
+    #fff 100px,
+    #fff 200px
+  );
+  background-size: 100% 200px;
+  margin: 0;
+}
+
+/* Fixed centered text that auto-toggles color */
+.toggle-text {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Arial Black', Arial, sans-serif;
+  font-size: 70px; /* change to your preference */
+  font-weight: 900;
+  letter-spacing: 12px;
+  text-transform: uppercase;
+  color: white;
+  mix-blend-mode: difference; /* This creates the magic toggle effect */
+  pointer-events: none;
+  z-index: 1000;
+  user-select: none;
+  text-shadow: 6px 6px 20px rgba(0, 0, 0, 0.7);
+}
+
+/* Optional: just some spacing between sections */
+section {
+  height: 100vh;
+}
