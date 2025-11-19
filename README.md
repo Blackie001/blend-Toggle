@@ -20,7 +20,7 @@
 
 ## Live Demo
 
-[https://Blackie001.github.io/blend-toggle](https://Blackie001.github.io/blend-toggle)  
+[https://Blackie001.github.io/blend-toggle](https://Blackie001.github.io/blend-Toggle/blob/main/blend.html)  
 *(Replace with your actual GitHub Pages link after deploying)*
 
 ## Project Structure
