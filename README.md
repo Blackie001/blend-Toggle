@@ -21,6 +21,7 @@
 ## Live Demo
 
 [https://Blackie001.github.io/blend-toggle](https://github.com/Blackie001/blend-Toggle/blob/main/blend.html)  
-*(Replace with your actual GitHub Pages link after deploying)*
 
 ## Project Structure
+
+Just for fun (https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=githubpages&logoColor=orange)](https://yourusername.github.io/toggle/)
