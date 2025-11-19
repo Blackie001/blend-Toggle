@@ -22,6 +22,3 @@
 
 [https://Blackie001.github.io/blend-toggle](https://github.com/Blackie001/blend-Toggle/blob/main/blend.html)  
 
-## Project Structure
-
-Just for fun (https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://Blackie001.github.io/toggle/)
