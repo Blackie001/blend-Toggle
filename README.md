@@ -20,5 +20,4 @@
 
 ## Live Demo
 
-[https://Blackie001.github.io/blend-toggle](https://github.com/Blackie001/blend-Toggle/blob/main/blend.html)  
-
+https://blackie001.github.io/blend-Toggle/
